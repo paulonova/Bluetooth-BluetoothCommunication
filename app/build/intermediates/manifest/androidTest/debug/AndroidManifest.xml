@@ -3,7 +3,7 @@
     package="com.example.user.bluetooth_communication.test" >
 
     <uses-sdk
-        android:minSdkVersion="23"
+        android:minSdkVersion="19"
         android:targetSdkVersion="24" />
 
     <instrumentation
