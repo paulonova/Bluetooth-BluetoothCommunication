@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_ee995d0d960dbf197177ad0379ab0506dc125e2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b70561d7c9ae4a66d5f2efe6697fe25ec06392fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_ef77fa69b689a6142a12c132fcfa62d6f91c82fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_2a75514705789bfac7fd86c53d1eb551f76ae1c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_fc59881469cccec7568ac88aa6361ca6509d3259.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_87a97fc31fef6ae02e8cba62778ba0e97161a18a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_002d9e032cf81e33280adaf7330e2a08d3cc4317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_14e97b424ed6497b3dc6a6383b9deffc087b8da3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6d1c47e72007cf24421e72b9b0d5002ffaf69763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_696005ab1d237411368ebd723ce2a8afa4def655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6f1faf6ee278bad88b4c87d05a0cf8c42562a3ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROGRAM_FILES\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_09bbcbfd94907ffd1717a17b8802b609ae3d4e02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b0d1f8ac63805b943fde90b4073d0cbd3a83069a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_f40ad1caf38cbcb0e050dfdcf9ad9db893c8a858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\BLUETOOTH_PROJECTS\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_0bd232eba36fce787e546bf193b54413397b3f0f.jar" />
+    </item>
+
+</items>
